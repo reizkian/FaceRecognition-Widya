@@ -1,0 +1,5 @@
+﻿  cpp_FaceRecognizer.cpp
+D:\codes\cpp\cpp_FaceRecognizer\cpp_FaceRecognizer\cpp_FaceRecognizer.cpp(50,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\codes\cpp\cpp_FaceRecognizer\cpp_FaceRecognizer\cpp_FaceRecognizer.cpp(51,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\codes\cpp\cpp_FaceRecognizer\cpp_FaceRecognizer\cpp_FaceRecognizer.cpp(81): warning C4715: 'MainApp::CaptureVideo': not all control paths return a value
+  cpp_FaceRecognizer.vcxproj -> D:\codes\cpp\cpp_FaceRecognizer\x64\Debug\cpp_FaceRecognizer.exe
