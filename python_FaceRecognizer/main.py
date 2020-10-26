@@ -2,6 +2,7 @@
 """
  Created by Reizkian Yesaya .R @27 August 2020
  knowledge test PT WIDYA INOVASI INDONESIA - AI ENGINEER
+ MARLON
  -------------------------------------------------------
  reizkian-FaceRecognizer app consist of:
  1. main.py (user interface)
